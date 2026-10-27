@@ -1,0 +1,18 @@
+
+{
+  "compilerOptions": {
+    "paths": {
+      "src/*": ["./src/*"],
+      "assets/*": ["./src/assets/*"],
+      "Services/*": ["./src/Services/*"],
+      "utils/*": ["./src/utils/*"],
+      "Components/*": ["./src/Components/*"],
+      "configs/*": ["./src/configs/*"],
+      "Pages/*": ["./src/Pages/*"],
+      "router/*": ["./src/router/*"],
+      "styles/*": ["./src/styles/*"]
+    },
+    "checkJs": false
+  },
+  "include": ["src"]
+}
